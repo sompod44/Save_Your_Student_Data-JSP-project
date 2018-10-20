@@ -1,0 +1,23 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 15, 2018, 5:38:50 PM
+    Author     : Sompod_Programmer
+*/
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+#section1 {
+    height: 10%; 
+text-align:center; 
+    display:table;
+    width:100%;
+}
+
+#section1 h1 {display:table-cell; vertical-align:middle}
